@@ -12,3 +12,5 @@ Resolution can be measured in: Spatial resolution (width × height in pixels) an
 High resolution provides more detail but requires more storage and processing.
 Low resolution results in pixelation when images are enlarged.
 Common resolutions: 720p (HD), 1080p (Full HD), 4K (Ultra HD).
+
+6
