@@ -56,4 +56,39 @@ input layer
 hidden layer -> multiply weights + bias  -> activate function
 output layer
 
+10. What is a Perceptron or a Single Layer Neural Network?
+If the output crosses a certain threshold, the perceptron outputs one class or otherwise, it outputs the other class.
+
+11.  What is Multilayer Perceptron and How it is different from a Single-Layer Perceptron?
+ontains one or more hidden layers between the input and output layers. It is a type of feedforward neural network and is widely used in deep learning.
+
+12. How are the number of hidden layers and neurons per hidden layer selected?
+    There is no fixed rule for selecting hidden layers and neurons and they are chosen based on the complexity of the problem and are often tuned experimentally.
+
+Number of Hidden Layers
+
+For shallow problems or simple patterns we can use 1–2 hidden layers.
+For complex problems like images, speech or NLP we can use deeper networks with many layers.
+Universal Approximation Theorem says even a single hidden layer with enough neurons can approximate any function, but deeper networks often train more efficiently.
+Number of Neurons per Layer
+
+Too few neurons can lead to underfitting (model can’t capture the patterns).
+Too many neurons can lead to overfitting (model memorizes training data).
+A common practice is to start with a number between the size of the input layer and output layer, then adjust based on validation performance.
+Some heuristics methods like powers of 2 (e.g., 64, 128, 256) are commonly tried in practice.
+
+13. What is the difference between Shallow Networks and Deep Networks?
+
+14. Why are Neural Networks Called Black Boxes?
+because their internal workings are not easily interpretable. While they can learn complex patterns and make highly accurate predictions, it is usually difficult to understand how inputs are transformed into outputs.
+
+15. What are Feedforward Neural Networks?
+Feedforward Neural Network is the simplest type of artificial neural network where the data flows only in one direction i.e from the input layer to hidden layers and then to the output layer.
+
+There are no cycles or loops in the connections.
+Each layer passes information forward and neurons are fully connected to the next layer.
+Training is usually done using backpropagation with gradient descent to adjust weights and biases.
+Easy to design and train for smaller tasks.
+Works well for problems like image recognition, speech recognition and regression tasks.
+Unlike recurrent networks, FNNs do not have memory of past inputs.
 

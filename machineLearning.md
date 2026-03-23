@@ -57,5 +57,49 @@ Example: In disease detection, high recall means most sick patients are correctl
 
 F1-score = 2 * (precision * recall) / (precision + recall)
 
+8. Different Loss Functions in Machine Learning
+MSE
+MAE
+Huber loss It combines MSE and MAE making it less sensitive to outliers than MSE.
+Cross-entropy
+Hinge Loss: Used for classification with SVMs. It encourages maximum margin between classes
+KL Divergence: Measures how one probability distribution differs from another hence used in probabilistic models.
+Exponential Loss: Used in boosting methods like AdaBoost; penalizes misclassified points more strongly.
+.R-squared (R²): Used in regression and measures how well the model explains variance in the target variable
+
+9. What is AUC–ROC Curve?
+
+ROC Curve (Receiver Operating Characteristic): The ROC curve is a graphical plot that shows the trade-off between True Positive Rate (TPR / Recall) and False Positive Rate (FPR) at different threshold values.
+TPR/Recall = TP / TP + FN
+FPR = FP / FP + TN
+AUC (Area Under the Curve): AUC is the area under the ROC curve. It represents the probability that a randomly chosen positive instance is ranked higher than a randomly chosen negative instance.
+AUC = 1 → Perfect classifier
+AUC = 0.5 → Random guessing
+AUC < 0.5 → Worse than random
+
+10. Is accuracy always a good metric for classification performance?
+No, accuracy can be misleading, especially with imbalanced datasets. In such cases:
+
+Precision and Recall provide better insight into model performance.
+F1-score combines precision and recall as their harmonic mean, giving a balanced measure of model effectiveness, especially when the classes are imbalanced.
+
+11. What is Cross-Validation?
+k-Fold Cross-Validation
+Stratified k-Fold
+Leave-One-Out (LOO)
+Hold-Out Method
+
+12. Explain k-Fold Cross-Validation, Leave-One-Out (LOO) and Hold-Out Method.
+
+13. Difference Between Regularization, Standardization and Normalization
+
+14. What is Feature Engineering in Machine Learning?
+
+Feature Creation:
+Feature Transformation
+Feature Encoding
+Feature Selection
+
+15. Difference between Feature Engineering and Feature Selection?
 
 
