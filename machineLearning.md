@@ -103,3 +103,13 @@ Feature Selection
 15. Difference between Feature Engineering and Feature Selection?
 
 
+16. Feature Selection Techniques in Machine Learning
+
+17. What is Dimensionality Reduction in Machine Learning?
+
+18. What is Categorical Data and how to handle it?
+
+19. Difference between label encoding and one hot encoding?
+
+20. What is Upsampling and Downsampling?
+

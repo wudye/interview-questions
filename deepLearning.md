@@ -92,3 +92,14 @@ Easy to design and train for smaller tasks.
 Works well for problems like image recognition, speech recognition and regression tasks.
 Unlike recurrent networks, FNNs do not have memory of past inputs.
 
+16. Are ANN, Single Layer Perceptron and Feedforward Neural Network the same?
+
+17. What is forward and backward propagation?
+
+18. What is the cost function in deep learning?
+
+19. What is Binary Cross-Entropy, Categorical Cross-Entropy and Sparse Categorical Cross-Entropy?
+
+20. How do neural networks learn from the data?
+
+

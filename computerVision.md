@@ -36,3 +36,13 @@ Feature Extraction: Helps in object recognition and deep learning.
 
 10. Explain the concept of color correction and its applications.
 
+11. What are the different types of noise that can occur in images?
+
+12. Explain different noise reduction techniques.
+
+13. What is Principal Component Analysis (PCA) and how is it used in image processing?
+
+14. What are Affine Transformations in images?
+
+15. What are geometric transformations in image processing?
+
