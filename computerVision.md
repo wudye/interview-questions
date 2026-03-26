@@ -46,3 +46,22 @@ Feature Extraction: Helps in object recognition and deep learning.
 
 15. What are geometric transformations in image processing?
 
+16. What are morphological operations and why are they useful?
+
+17. What is the morphological gradient?
+
+18. What is an edge in an image?
+
+19. Explain Sobel and Prewitt edge detectors.
+
+20. Explain the Canny edge detection algorithm step by step.
+
+21. What is a feature descriptor in computer vision?
+
+22. What is Scale-Invariant Feature Transform (SIFT) and how does it work?
+
+23. Explain Speeded Up Robust Features (SURF).
+
+24. What is ORB and how does it compare to SIFT and SURF?
+
+25. What is the Histogram of Oriented Gradients (HOG) and how is it used?

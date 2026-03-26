@@ -102,4 +102,23 @@ Unlike recurrent networks, FNNs do not have memory of past inputs.
 
 20. How do neural networks learn from the data?
 
+21. What is Gradient Descent and its Variants?
+
+22. Define the learning rate in Deep Learning.
+
+23. Difference between Batch Gradient Descent, Stochastic Gradient Descent and Mini-Batch Gradient Descent?
+
+24. Explain Adagrad, RMSProp and Adam Optimizer.
+
+25. What is Momentum-based Gradient Descent?
+
+26. What is the Vanishing and Exploding Gradient Problem?
+
+27. What is Gradient Clipping?
+
+28. Define Epoch, Iterations and Batches.
+
+29. How to Avoid Overfitting in Neural Networks?
+
+30. What is Dropout and Early Stopping in Neural Networks?
 

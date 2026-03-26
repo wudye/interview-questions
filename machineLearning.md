@@ -113,3 +113,27 @@ Feature Selection
 
 20. What is Upsampling and Downsampling?
 
+21. Explain SMOTE method used to handle data imbalance
+
+22. How to handle missing and duplicate values?
+
+23. What are outliers and how to handle them?
+
+24. Different Hypothesis in Machine Learning?
+
+25. What is Bias-Variance tradeoff?
+
+26. What is Hyperparameter Tuning in Machine Learning?
+
+27. What is Linear Regression? What are its Assumption?
+
+28. Explain how sigmoid function work in Logistic Regression and why it is not a Regrresion Model even though it name has it?
+
+29. How to choose an optimal number of clusters?
+
+30. What is Multicollinearity and Why is it a Problem?
+
+
+
+
+
