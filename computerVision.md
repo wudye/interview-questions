@@ -65,3 +65,14 @@ Feature Extraction: Helps in object recognition and deep learning.
 24. What is ORB and how does it compare to SIFT and SURF?
 
 25. What is the Histogram of Oriented Gradients (HOG) and how is it used?
+
+26. Explain template matching and its limitations.
+
+27. What is optical flow? Explain Lucas-Kanade method.
+
+28. How does a Convolutional Neural Network (CNN) work for image classification?
+
+29. What are convolutional layers, pooling layers and fully connected layers?
+
+30. What is the purpose of pooling layers in CNNs?
+

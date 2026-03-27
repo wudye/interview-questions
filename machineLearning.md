@@ -133,6 +133,27 @@ Feature Selection
 
 30. What is Multicollinearity and Why is it a Problem?
 
+31. What is Variance Inflation Factor?
+
+32. What is Information Gain and Entropy in Decision Tree?
+
+33. How to Prevent Overfitting in Decision Trees?
+
+34. What is Pruning in Decision Trees?
+
+35. Explain ID3 and CART
+
+36. Explain Naive Bayes and Bayes’ Theorem.
+
+37. What are the assumptions of Naive Bayes?
+
+38. What are the types of Naive Bayes algorithm?
+
+39. Explain K-Nearest Neighbors (KNN) working.
+
+40. Why is KNN a lazy algorithm?
+
+
 
 
 

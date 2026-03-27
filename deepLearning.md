@@ -122,3 +122,21 @@ Unlike recurrent networks, FNNs do not have memory of past inputs.
 
 30. What is Dropout and Early Stopping in Neural Networks?
 
+31. What is Data Augmentation and Its Techniques?
+
+32. What is Batch Normalization?
+
+34. What do you mean by Convolution?
+
+35. What is a kernel?
+
+36. Define stride.
+
+37. What is Pooling Layer and its different types?
+
+38. What is Padding in CNN?
+
+39. What is the difference between object detection and image segmentation?
+
+40. What are Recurrent Neural Networks (RNNs) and How it works? 
+
