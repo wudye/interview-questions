@@ -13,3 +13,9 @@ Regularization: Another important aspect of SVMs is regularization, which balanc
     wx + b = 0
     
 3. What is the maximum margin classifier in the context of SVM?
+
+4. What are support vectors and why are they important in SVM?
+
+5. Discuss the difference between linear and non-linear SVM.
+
+6. How does the kernel trick work in SVM?
